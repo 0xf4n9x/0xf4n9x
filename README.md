@@ -2,7 +2,7 @@
 
 > Cybersecurity Enthusiast, Pentesting, Redteam, Student.
 
-#### ![_0xf4n9x_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=FanqXu&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=FanqXu&show_icons=true&hide_border=true&theme=tokyonight" align="right">
 
 ### Where to find me
 
@@ -13,6 +13,3 @@
 
 - Email: fanq.xu@gmail.com
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanqXu&layout=compact)
