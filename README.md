@@ -9,7 +9,7 @@
 - Twitter: [https://twitter.com/\_0xf4n9x\_](https://twitter.com/\_0xf4n9x\_)
 
 - My Blog: https://fanqxu.github.io
-- Telegram: https://t.me/@Zeroxf4n9x
+- Telegram: https://t.me/Zeroxf4n9x
 
 - Email: fanq.xu@gmail.com
 
