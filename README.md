@@ -8,7 +8,7 @@
 
 - Twitter: [https://twitter.com/\_0xf4n9x\_](https://twitter.com/\_0xf4n9x\_)
 
-- My Blog: https://0xf4n9x.github.io
+- My Blog: ~https://0xf4n9x.github.io~
 
 - Email: fanq.xu@gmail.com
 
