@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm \_0xf4n9x\_
 
-> CyberSec Enthusiast, SecResearcher, RedTeam, SecAutomation, ❣️OpenSource.
+> CyberSec Enthusiast, Security Researcher, RedTeam, Security Automation, ❣️OpenSource
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=0xf4n9x&show_icons=true&hide_border=true&theme=tokyonight" align="right">
 
