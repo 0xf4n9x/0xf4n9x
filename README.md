@@ -10,5 +10,5 @@
 
 - My Blog: ~https://0xf4n9x.github.io~
 
-- Email: fanq.xu@gmail.com
+- Email: m4rtin.hsu@gmail.com
 
