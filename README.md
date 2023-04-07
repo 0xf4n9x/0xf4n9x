@@ -8,7 +8,7 @@
 
 - Twitter: [https://twitter.com/\_0xf4n9x\_](https://twitter.com/\_0xf4n9x\_)
 
-- My Blog: ~https://0xf4n9x.github.io~
+- Blog: https://0xf4n9x.github.io
 
 - Email: m4rtin.hsu@gmail.com
 
