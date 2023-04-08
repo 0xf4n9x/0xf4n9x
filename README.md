@@ -10,5 +10,5 @@
 
 - Blog: https://0xf4n9x.github.io
 
-- Email: m4rtin.hsu@gmail.com
+- Email: f4ngh3u@gmail.com
 
